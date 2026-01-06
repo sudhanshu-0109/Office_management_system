@@ -137,7 +137,7 @@ This project is developed for **educational and hackathon purposes only**.
 
 ## 🤝 Contributors
 
-* **Sonu Gautam** – Developer
+* **Sunny Gautam, Sudhanshu Ranjan, Stavan Katrojwar and Ganpati Kumar** – Developer
 
 ---
 
